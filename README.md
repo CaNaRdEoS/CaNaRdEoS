@@ -17,8 +17,3 @@
   <img src="https://github-readme-stats.vercel.app/api?username=CaNaRdEoS&theme=great-gatsby&show_icons=true" alt="CaNaRdEoS's GitHub Stats" />
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaNaRdEoS&theme=great-gatsby&langs_count=5" alt="CaNaRdEoS's GitHub most used languages"/>
-
-## General Stats
----
-
-![Top Langs](https://github-readme-stats.vercel.app/api/wakatime/?username= CaNaRdEoS&layout=compact&theme=great-gatsby&langs_count=8&custom_title=Stats)
