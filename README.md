@@ -1,8 +1,8 @@
 # 👋 Hi, I’m @CaNaRdEoS
 - 🌍 I'm based in Toulouse
 - 👀 I’m interested in IT, video games, innovations, space, the Lord of the Rings and ducks
-- 🚀 I'm currently student of [Bachelor in Computer Science specialized in development](https://iut.univ-tlse3.fr/bachelor-specialite-informatique)
-- 🌱 I’m currently looking for an internship
+- 🚀 I finished my studies at the [Bachelor in Computer Science specialized in development](https://iut.univ-tlse3.fr/bachelor-specialite-informatique) (3 years)
+- 🌱 I’m currently looking for a job
 
 ## My skills
 ---
